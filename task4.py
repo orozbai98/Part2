@@ -1,0 +1,9 @@
+hour1 = 6
+hour2 = 6
+min1 = 1
+min2 = 2
+sec1 = 30
+sec2 = 10
+all_sec1 = ((hour1*60*60)+(1*60)+30)
+all_sec2 = ((hour2*60*60)+(2*60)+10)
+print("kol sec: ",all_sec2-all_sec1)

@@ -1,0 +1,1 @@
+print(input("slovo: ").count(' ') + 1)
